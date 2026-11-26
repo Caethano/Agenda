@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Agenda" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorOnPrimary">@color/branco</item>
+        <item name="colorSecondary">@color/destaque</item>
+        <item name="android:statusBarColor">@color/primaria_escura</item>
+    </style>
+</resources>

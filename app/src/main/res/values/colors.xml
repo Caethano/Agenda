@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaria">#1565C0</color>
+    <color name="primaria_escura">#0D47A1</color>
+    <color name="destaque">#FF8F00</color>
+    <color name="texto_secundario">#616161</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="launcher_bg">#1565C0</color>
+</resources>
